@@ -1,1 +1,1 @@
-# Epic-Archery-Stage-5
+# project-C26-template
